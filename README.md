@@ -16,7 +16,7 @@ A minimal and effective To-Do List app built using **Flutter** for Task 02 of th
 
 ##  Screenshots
     
-   ![todolist](https://github.com/user-attachments/assets/78255ba5-c048-4310-b3dc-5f7ccac43a0d)
+  
    
 ---
 
